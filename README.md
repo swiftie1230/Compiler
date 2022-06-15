@@ -1,6 +1,6 @@
-# Compiler project 
+# Compiler project 👩🏻‍💻
 
-## In this project I Implemented,
+## In this project, I Implemented,
 
 ### 1. Lexical analyzer
 
